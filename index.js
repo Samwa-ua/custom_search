@@ -5,7 +5,7 @@
 // 2. Check array for whole word => show result
 // 3. Check word for an * and write index of *
 // 4. Find word with matching length
-// 5. Compare letters in words excluding index of * and corresponding letter
+// 5. Compare letters in words excluding index of *
 // 6. Return result
 
 const string = 'This is not right'
